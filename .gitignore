@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project output
+output/
+
+# Config (user-specific, contains local paths)
+sd_enhance_config.json
+
+# Model files (not tracked in git; included in release zip only)
+models/**/*.pth
+
+# Logs
+*.log
