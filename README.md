@@ -32,7 +32,7 @@ git clone https://github.com/你的用户名/sd-enhance.git
 cd sd-enhance
 ```
 
-模型文件可从已有 WebUI 目录复制，或使用 `release_package.bat` 自行打包。
+模型文件可从已有 stable-diffusion-webui 目录复制。
 
 ## 安装
 
