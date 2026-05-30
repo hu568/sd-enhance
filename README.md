@@ -21,7 +21,7 @@
 
 ### 方式一：下载 Release 压缩包（推荐）
 
-从 [Releases](https://github.com/你的用户名/sd-enhance/releases) 页面下载最新版 `sd-enhance-v*.zip`，解压即可使用。
+从 [Releases](https://github.com/hu568/sd-enhance/releases) 页面下载最新版 `sd-enhance-v*.zip`，解压即可使用。
 
 压缩包包含全部源码和模型文件（约 410MB），无需额外下载。
 
