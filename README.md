@@ -6,7 +6,7 @@
 
 ## 功能
 
-- **图片放大**：内置 ESRGAN / RealESRGAN / SwinIR / Lanczos / Nearest 等多种放大器，开箱即用
+- **图片放大**：内置 ESRGAN / RealESRGAN / SwinIR / Lanczos / Nearest 等多种放大器
 - **人脸修复**：支持 GFPGAN / CodeFormer（需手动下载模型文件）
 - 单张处理、批量文件、目录批量三种输入模式
 - 两级放大器混合
@@ -21,7 +21,7 @@
 
 ### 方式一：下载 Release 压缩包（推荐）
 
-从 [Releases](https://github.com/hu568/sd-enhance/releases) 页面下载最新版 `sd-enhance-v*.zip`，解压即可使用。
+从 [Releases](https://github.com/hu568/sd-enhance/releases) 页面下载最新版 `sd-enhance-v*.zip`，解压后安装依赖即可使用。
 
 压缩包包含全部源码和模型文件（约 410MB），无需额外下载。
 
